@@ -1,1 +1,5 @@
-[Uploading Screenshot 2568-06-19 at 22.40.51.png…]()
+Tax Calculator website
+# Tools 
+- Visual Studio Code (code editor)
+- TailwindCSS (css)
+- Claude AI (optimized)
